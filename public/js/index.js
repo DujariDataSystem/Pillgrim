@@ -11,13 +11,9 @@ import {getFirestore, collection, getDocs, getDoc, doc, setDoc,limit, Timestamp,
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optiona
 const firebaseConfig = {
-  apiKey: "AIzaSyDBdbu-84whBLw97Al4DYEk5uTNJEswKv4",
   authDomain: "pillgrim-1de80.firebaseapp.com",
   projectId: "pillgrim-1de80",
   storageBucket: "pillgrim-1de80.appspot.com",
-  messagingSenderId: "248696586354",
-  appId: "1:248696586354:web:86204ccec5359f57e202eb",
-  measurementId: "G-19EYZSQ3BY"
 };
 
 
